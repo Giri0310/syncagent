@@ -13,10 +13,6 @@
 # Production
 /build
 
-# Downloaded article images (kept locally, not committed)
-/public/images/*
-!/public/images/.gitkeep
-
 # Misc
 .DS_Store
 *.pem
